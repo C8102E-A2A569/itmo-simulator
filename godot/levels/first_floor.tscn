@@ -1,0 +1,5 @@
+[gd_scene format=3 uid="uid://dfu0h0jwtfv2u"]
+
+[ext_resource type="PackedScene" uid="uid://ll3nm00qgytw" path="res://tiled/first_floor.tmx" id="1_wx076"]
+
+[node name="first_floor" unique_id=1586574155 instance=ExtResource("1_wx076")]

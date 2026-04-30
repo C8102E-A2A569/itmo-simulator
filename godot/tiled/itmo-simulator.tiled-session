@@ -1,0 +1,71 @@
+{
+    "activeFile": "first_floor.tmx",
+    "expandedProjectPaths": [
+        "interior",
+        "interior/tsx",
+        "."
+    ],
+    "file.lastUsedOpenFilter": "Все файлы (*)",
+    "fileStates": {
+        "characters/tsx/Lucy.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "first_floor.tmx": {
+            "expandedGroupLayers": [
+                3,
+                6
+            ],
+            "scale": 0.33,
+            "selectedLayer": 10,
+            "viewCenter": {
+                "x": 5784.848484848484,
+                "y": 7110.606060606061
+            }
+        },
+        "interior/tsx/interior.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "second_floor.tmx": {
+            "expandedGroupLayers": [
+                2
+            ],
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 4884,
+                "y": 1583.3333333333333
+            }
+        },
+        "third_floor.tmx": {
+            "expandedGroupLayers": [
+                2
+            ],
+            "scale": 1,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 4732,
+                "y": 7098.5
+            }
+        }
+    },
+    "last.imagePath": "D:/Itmo/вкр/itmo-sumulator/tiled/characters",
+    "map.height": 260,
+    "map.lastUsedFormat": "tmx",
+    "map.width": 70,
+    "openFiles": [
+        "first_floor.tmx",
+        "second_floor.tmx",
+        "third_floor.tmx"
+    ],
+    "project": "itmo-simulator.tiled-project",
+    "recentFiles": [
+        "third_floor.tmx",
+        "second_floor.tmx",
+        "first_floor.tmx",
+        "interior/tsx/interior.tsx",
+        "characters/tsx/Lucy.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
